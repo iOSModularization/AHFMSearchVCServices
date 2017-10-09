@@ -1,0 +1,27 @@
+{
+  "name": "AHFMSearchVCServices",
+  "version": "0.1.0",
+  "summary": "A short description of AHFMSearchVCServices.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/iOSModularization/AHFMSearchVCServices",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ivsall2012": "ivsall2012@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/iOSModularization/AHFMSearchVCServices.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AHFMSearchVCServices/Classes/**/*",
+  "dependencies": {
+    "AHFMServices": [
+
+    ]
+  }
+}
